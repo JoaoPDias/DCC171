@@ -1,5 +1,5 @@
 
-package aprendizado.Aula01.Modelo;
+package DCC171.Aula01.Modelo;
 
 
 public class Pessoa {

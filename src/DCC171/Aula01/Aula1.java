@@ -1,4 +1,4 @@
-package aprendizado.Aula01;
+package DCC171.Aula01;
 
 public class Aula1 {
 

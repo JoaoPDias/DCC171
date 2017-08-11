@@ -1,7 +1,7 @@
 
-package aprendizado.Aula01;
+package DCC171.Aula01;
 
-import aprendizado.Aula01.Modelo.Pessoa;
+import DCC171.Aula01.Modelo.Pessoa;
 import java.util.Scanner;
 
 

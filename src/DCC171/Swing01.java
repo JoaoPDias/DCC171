@@ -1,4 +1,4 @@
-package aprendizado;
+package DCC171;
 
 import javax.swing.JApplet;
 import javax.swing.JOptionPane;
