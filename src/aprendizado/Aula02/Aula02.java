@@ -12,7 +12,7 @@ public class Aula02 {
     public static void main(String[] args) {
         Janela janela = new Janela();
 
-        janela.setSize(320, 200);
+        janela.setSize(1200, 800);
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janela.setLocationRelativeTo(null);
 
